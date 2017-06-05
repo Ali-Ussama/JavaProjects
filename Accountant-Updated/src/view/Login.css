@@ -1,0 +1,30 @@
+/* Javadoc style sheet */
+/*
+Overall document style
+*/
+
+#root{
+  /*  -fx-background-image: url("file:///E:/Work/java/Eclipse%20SDK%204.6.1/Workspace/Accountant/resources/ali.jpg");
+    -fx-background-fills: url("file:///E:/Work/java/Eclipse%20SDK%204.6.1/Workspace/Accountant/resources/ali.jpg");
+  */
+	-fx-background-repeat: round ;
+	-fx-background-color: rgb(255,102,102);
+}
+#lblusername{
+	-fx-font-style:normal;
+	-fx-font-weight: bold;
+	-fx-font-size: 15px;
+	-fx-text-fill: white ;	
+	
+}
+#lblpassword{
+	-fx-font-style: normal ;
+	-fx-font-weight: bold;
+	-fx-font-size: 15px;
+	-fx-text-fill: white;
+}
+#LoginBtn{
+	-fx-background-color: rgb(102,128,230);
+	-fx-font-size: 15px ;
+	-fx-font-style: normal ;
+}

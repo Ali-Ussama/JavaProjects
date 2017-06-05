@@ -1,0 +1,8 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+#Square{
+-fx-background-image: url("src/chess_PNG8455.png");	
+-fx-background-color: rgb(44,247,7);
+}
+#Border{
+}
